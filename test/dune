@@ -1,0 +1,3 @@
+(test
+ (name u01)
+ (libraries testu01 pringo))
