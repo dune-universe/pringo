@@ -17,7 +17,7 @@
  (name pringo)
  (synopsis "Pseudo-random, splittable number generators")
  (description
-  "Pseudo-random number generators that support splitting and two interfaces: one stateful, one purely functional.")
+  "Pseudo-random number generators that support splitting and two interfaces: one stateful, one purely functional")
  (depends
   (ocaml
    (>= 4.05.0))

@@ -1,4 +1,3 @@
 (library
  (name PRNG)
- (public_name pringo)
- (libraries))
+ (public_name pringo))
