@@ -1,3 +1,6 @@
 (library
  (name PRNG)
- (public_name pringo))
+ (public_name pringo)
+ (foreign_stubs
+   (language c)
+   (names stubs)))
